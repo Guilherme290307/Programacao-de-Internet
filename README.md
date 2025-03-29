@@ -1,2 +1,2 @@
 # Programacao-de-Internet
-Repositorio de Atividade para Aula
+Repositorio de Aulas
